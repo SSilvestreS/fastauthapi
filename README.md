@@ -107,7 +107,7 @@ Contribuições são bem-vindas! Siga os passos:
 
 ## 📬 Contato
 
-* GitHub: [@Zepphyrum](https://github.com/Zepphyrum)
-* E-mail: [zepphyrum@example.com](mailto:zepphyrum@example.com)
+* E-mail: [sauloxl31@gmail.com](mailto:sauloxl31@gmail.com)
+* LinkedIn: [Saulo Silvestre](https://www.linkedin.com/in/saulo-silvestre-042b632b8)
 
 
