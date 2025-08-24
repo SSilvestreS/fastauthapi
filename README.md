@@ -2,15 +2,16 @@
 
 ![FastAuthAPI Banner](https://via.placeholder.com/1200x400.png?text=FastAuthAPI)
 
+[![Status](https://img.shields.io/badge/Status-Completo-green)](https://github.com/SSilvestreS/NexusPM)
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-## 🚀 Visão Geral
+##  Visão Geral
 
 **FastAuthAPI** é uma API RESTful moderna construída com **FastAPI**, projetada para oferecer autenticação segura via JWT, gerenciamento de usuários e integração eficiente com banco de dados através do SQLAlchemy. Este projeto foi desenvolvido com foco em **segurança, escalabilidade e boas práticas de desenvolvimento**, servindo como uma base robusta para aplicações web e mobile.
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 
 * **Python 3.8+**
 * **FastAPI** - Framework web de alta performance
@@ -20,7 +21,7 @@
 * **bcrypt** - Hashing de senhas
 * **Uvicorn** - Servidor ASGI para execução
 
-## 📦 Instalação
+##  Instalação
 
 Clone o repositório:
 
@@ -45,7 +46,7 @@ Instale as dependências:
 pip install -r requirements.txt
 ```
 
-## ⚙️ Configuração
+##  Configuração
 
 Renomeie `.env.example` para `.env` e configure as variáveis de ambiente:
 
@@ -56,7 +57,7 @@ ALGORITHM=HS256
 ACCESS_TOKEN_EXPIRE_MINUTES=30
 ```
 
-## 🏃‍♂️ Rodando a Aplicação
+##  Rodando a Aplicação
 
 Inicie o servidor de desenvolvimento:
 
@@ -70,7 +71,7 @@ Acesse a documentação interativa em:
 http://127.0.0.1:8000/docs
 ```
 
-## 🔐 Funcionalidades
+##  Funcionalidades
 
 * **Cadastro de Usuário:** Registro seguro com validação e hashing de senha.
 * **Login de Usuário:** Geração e validação de tokens JWT.
@@ -78,7 +79,7 @@ http://127.0.0.1:8000/docs
 * **Segurança:** Senhas protegidas e endpoints autenticados.
 * **Documentação Interativa:** Swagger UI e ReDoc para testes e exploração da API.
 
-## 🧪 Testes
+##  Testes
 
 Execute testes automatizados para validar funcionalidades:
 
@@ -88,14 +89,14 @@ pytest
 
 ![Tests](https://img.shields.io/badge/tests-passed-brightgreen)
 
-## 🌐 Boas Práticas
+##  Boas Práticas
 
 * Arquitetura modular para fácil manutenção.
 * Padrões de segurança recomendados para APIs.
 * Documentação clara e interativa via FastAPI.
 * Preparado para deployment em ambientes de produção.
 
-## 🤝 Contribuições
+##  Contribuições
 
 Contribuições são bem-vindas! Siga os passos:
 
@@ -105,7 +106,7 @@ Contribuições são bem-vindas! Siga os passos:
 4. Push para a branch (`git push origin feature/nova-feature`).
 5. Abra um Pull Request.
 
-## 📬 Contato
+##  Contato
 
 * E-mail: [sauloxl31@gmail.com](mailto:sauloxl31@gmail.com)
 * LinkedIn: [Saulo Silvestre](https://www.linkedin.com/in/saulo-silvestre-042b632b8)
